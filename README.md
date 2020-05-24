@@ -4,11 +4,11 @@ A free program that crawls http://pdfstop.com and automatically downloads ebooks
 
 ## Usage
 
-`python downloader.py [No. of links to crawl] [Starting point to crawl]
+`python downloader.py [No. of links to crawl] [Starting point to crawl]`
 
 This will download the `No. of links to crawl` from the `Starting point to crawl` and save them to automatically created folders(With the name of the ebook) in the directory that this file exists.
 
-> Note that argument `Starting point to crawl` is optional. If not `Starting point to crawl` is given, it will default to 0.
+> Note that argument `Starting point to crawl` is optional. If no `Starting point to crawl` is given, it will default to 0.
 
 ## Examples
 
