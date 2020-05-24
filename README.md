@@ -2,6 +2,12 @@
 
 A free program that crawls http://pdfstop.com and automatically downloads ebooks which is written in python.
 
+## Prerequisites
+
+Python 3
+Requests package
+Beautiful Soup package
+
 ## Usage
 
 `python downloader.py [No. of links to crawl] [Starting point to crawl]`
