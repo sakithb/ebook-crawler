@@ -1,10 +1,10 @@
 # EbookCrawler
 
-A free program that crawls http://pdfstop.com and automatically downloads ebooks which is written in python.
+A free program that crawls http://pdfstop.com and automatically downloads ebooks, written in python.
 
 ## Prerequisites
 
-* Python 3
+* Python 3+
 * Requests package
 * Beautiful Soup package
 
